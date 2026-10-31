@@ -1,10 +1,10 @@
-V3NOM
+androbot01
 Lightweight Android command agent built for authorized device management, security research, and educational testing.
 
 Android Java Android Studio Gradle Telegram License
 
 Overview
-V3NOM is a lightweight Android Studio project demonstrating a modular command-based architecture for Android applications. It is intended for Android development practice, background service implementation, and Telegram Bot integration in authorized environments.
+androbot01 is a lightweight Android Studio project demonstrating a modular command-based architecture for Android applications. It is intended for Android development practice, background service implementation, and Telegram Bot integration in authorized environments.
 
 Features
 📱 Device Status
